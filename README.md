@@ -1,6 +1,6 @@
 Stanford University
 
-Crytpgraohy I
+Crytography I
 
 Week 2
 
