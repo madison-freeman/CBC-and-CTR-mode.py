@@ -1,4 +1,4 @@
-# Stanford University - Crytography I
+# Stanford University - Cryptography I
 
 ## Week 2 - AES in CBC and CTR Mode
 
